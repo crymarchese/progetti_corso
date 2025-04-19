@@ -11,7 +11,7 @@ In questo repository caricherò tutti i piccoli progetti che realizzo durante il
 
 ## Come visualizzare i progetti
 
-Ogni progetto è composto da una pagina HTML che puoi aprire direttamente nel tuo browser. Non c'è bisogno di un server, basta aprire il file `.html` e vedrai il risultato!
+Ogni progetto è composto da una pagina HTML che puoi aprire direttamente nel tuo browser. Non c'è bisogno di un server, basta aprire il file `.html` e vedrai il risultato! Per farlo scarica il file .html presente nella lista dei miei progetti e aprilo con il tuo browser preferito!
 
 ## Obiettivi
 
